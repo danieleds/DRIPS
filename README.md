@@ -16,9 +16,11 @@ The system has been realized by relying only on these four basic components:
  * IR receivers
  * Radio card
 
-The following is a video showing the results of the project:
+The following is a video of my colleague showing the results of the project:
 
 [![Watch the video](resources/video-preview.jpg)](https://youtu.be/jqtYrXdcc9c)
 
 You can find the protocol specification in [docs/RFC-CCS.md](docs/RFC-CCS.md), or you can
 read the source code at [hwcontroller/](hwcontroller/).
+
+This project has been realized in collaboration with [Diego Giorgini](https://github.com/diegobit).

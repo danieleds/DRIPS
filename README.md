@@ -16,6 +16,8 @@ The system has been realized by relying only on these four basic components:
  * IR receivers
  * Radio card
 
+[Watch the slides explaining how the system works](docs/slides-2017-06-04.pdf)
+
 The following is a video of my colleague showing the results of the project:
 
 [![Watch the video](resources/video-preview.jpg)](https://youtu.be/jqtYrXdcc9c)

@@ -2,7 +2,7 @@
 ### Decentralized Relative Inertial Positioning System
 _Daniele Di Sarli, Diego Giorgini_
 
-This proof of concept implements a detection, communication and coordination system between small-scaled cars in a crossroad without any centralized infrastructure.
+This proof of concept implements a detection, communication and coordination system between small-scale cars in a crossroad without any centralized infrastructure.
 
 Each car is able to:
 
